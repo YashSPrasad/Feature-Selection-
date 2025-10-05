@@ -1,1 +1,2 @@
-# Feature-Selection-
+# Feature-Selection
+This project demonstrates various techniques for feature visualization and selection on a breast cancer dataset. Using libraries like Seaborn and Matplotlib, it explores data through violin plots, swarm plots, and heatmaps to identify relationships between features. The project then applies several feature selection methods, including correlation analysis, univariate selection, and tree-based importance, to reduce the number of features and improve model performance with a Random Forest Classifier.
